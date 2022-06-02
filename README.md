@@ -7,6 +7,9 @@ It is one of the oldest programming languages still in relatively wide use.
 ## Installation
 
 - [Lisp Installation](https://lisp-lang.org/learn/getting-started/)
+- sbcl --script main.lisp
+- sudo apt install clisp
+- clisp --version
 
 ## Tutorial
 
